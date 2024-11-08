@@ -19,8 +19,8 @@ namespace KT1_3
         static void Main(string[] args)                 //Mainissa luodaan ilmentymat ja tehdaan testituloste
         {
             Autot auto1 = new Autot();
-            auto1.Merkki = "Toyota";
-            auto1.Malli = "2000GT";
+            auto1.Merkki = "Nissan";
+            auto1.Malli = "Almera";
             auto1.Vuosimalli = 2021;
             auto1.Vari = "Keltainen";
             Console.WriteLine(auto1.ToString());
