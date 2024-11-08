@@ -20,7 +20,7 @@ namespace KT1_3
         {
             Autot auto1 = new Autot();
             auto1.Merkki = "Toyota";
-            auto1.Malli = "Auris";
+            auto1.Malli = "2000GT";
             auto1.Vuosimalli = 2021;
             auto1.Vari = "Keltainen";
             Console.WriteLine(auto1.ToString());
