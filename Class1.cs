@@ -21,8 +21,8 @@ namespace KT1_3
             Autot auto1 = new Autot();
             auto1.Merkki = "Nissan";
             auto1.Malli = "Almera";
-            auto1.Vuosimalli = 2021;
-            auto1.Vari = "Keltainen";
+            auto1.Vuosimalli = 1999;
+            auto1.Vari = "Punainen";
             Console.WriteLine(auto1.ToString());
 
             Console.WriteLine();
