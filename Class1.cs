@@ -31,7 +31,7 @@ namespace KT1_3
             auto2.Merkki = "BMW";
             auto2.Malli = "Isetta";
             auto2.Vuosimalli = 1987;
-            auto2.Vari = "Pinkki";
+            auto2.Vari = "Musta";
             Console.WriteLine(auto2.ToString());
 
             Console.WriteLine();
