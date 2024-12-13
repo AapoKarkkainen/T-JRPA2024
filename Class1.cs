@@ -21,7 +21,7 @@ namespace KT1_3
             Autot auto1 = new Autot();
             auto1.Merkki = "Subaru";
             auto1.Malli = "Legacy";
-            auto1.Vuosimalli = 1987;
+            auto1.Vuosimalli = 1989;
             auto1.Vari = "Punainen";
             Console.WriteLine(auto1.ToString());
 
