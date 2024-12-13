@@ -18,6 +18,7 @@ namespace KT1_3
     {
         static void Main(string[] args)                 //Mainissa luodaan ilmentymat ja tehdaan testituloste
         {
+            //Init
             Autot auto1 = new Autot();
             auto1.Merkki = "Nissan";
             auto1.Malli = "Almera";
@@ -26,7 +27,6 @@ namespace KT1_3
             Console.WriteLine(auto1.ToString());
 
             Console.WriteLine();
-
             Autot auto2 = new Autot();
             auto2.Merkki = "BMW";
             auto2.Malli = "Isetta";
